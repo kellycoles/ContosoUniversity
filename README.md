@@ -1,2 +1,2 @@
-# contosoUniversity
-An Entity Framework app
+# Contoso University
+A sample Entity Framework app 
